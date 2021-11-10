@@ -1,4 +1,4 @@
-package com.zq;
+package com.zq.jvm;
 
 import com.zq.classloader.MyClassLoader;
 import com.zq.classloader.Test;

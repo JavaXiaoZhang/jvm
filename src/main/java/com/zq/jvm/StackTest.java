@@ -1,4 +1,4 @@
-package com.zq;
+package com.zq.jvm;
 
 public class StackTest {
 
